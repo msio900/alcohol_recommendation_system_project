@@ -11,4 +11,4 @@
 * 유진님[@youjin99](https://github.com/youjin99)
 * 민희님[@Mini-Ji](https://github.com/Mini-Ji)
 * 채원님[@wonchae-stat](https://github.com/wonchae-stat)
-* 진영님[]()
+* 진영님
