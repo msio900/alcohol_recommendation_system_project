@@ -6,7 +6,7 @@
 3. 📅 Project scheduling[👉](#3)
 
 ## 1. 🤝Team member<a id="1"></a>
-<center>![da7apine logo](./image/da7apine_logo.png)</center>
+<p align="center"><img src="./image/da7apine_logo.png"></p>
  데파 팀은 주중 매일 메타버스 내 <소나무(pine tree) 방>에서 진행되어 `data pine tree`의 초성을 따서 데파라고 짓게 되었습니다. 동음어인 대파의 꽃말은 '인내'로 어떤 문제 상황이 발생하더라도 대파와 같이 인내하며 꾸준히 성장해가는 팀이 되고자 하는 의미를 담고 있습니다.
 
 * 민성님[@msio900](https://github.com/msio900)
